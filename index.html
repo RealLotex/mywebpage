@@ -6,7 +6,16 @@
         <title>Rosich Marcos Landing</title>
         <link rel="icon" type="image/ico" href="assets/favicon.ico">
         <script type="text/javascript">
-            var language = window.navigator.userLanguage || window.navigator.language;
+            <!--var language = window.navigator.userLanguage || window.navigator.language;-->
+               function getBrowserLanguage() { 
+                if (!navigator) return null;
+                if (navigator.languages && navigator.languages.length > 0) return navigator.languages[0];
+                if (navigator.userLanguage) return navigator.userLanguage;
+                if (navigator.browserLanguage) return navigator.browserLanguage;
+                return navigator.language;
+              }
+            
+            var language = getBrowserLanguage();
             switch (language){
                 case "es-AR":
                     GoToSpanish();
