@@ -2,7 +2,7 @@
 /*@import url("https://use.fontawesome.com/releases/v5.15.0/css/all.css");*/
 
 :root{
-    --background: linear-gradient(135deg, #22201b7e 0%, #c4bdb098 100%);
+    --background: linear-gradient(0deg, hsla(0, 0%, 9%, 0.5) 0%, hsla(0, 0%, 60%, 0.55) 100%);
     --color-primary: #22201b;
     --color-secondary: #c4bdb0;
     --whitecolor: #fff;
