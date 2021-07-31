@@ -16,6 +16,11 @@ body{
     font-family: 'Roboto', sans-serif;
     font-size: 1.5rem;
     color:var(--color-primary);
+
+}
+
+main{
+    background: var(--whitecolor);
 }
 
 .container{
@@ -44,9 +49,17 @@ body{
     background-image: var(--background), url('../assets/hero.webp');
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment:fixed;
     background-position: center;
     position: relative;
+    background:none;
+
+}
+
+.hero__video{
+    position:fixed;
+    z-index: -17;
+
 }
 
 .hero .container{
@@ -454,6 +467,16 @@ body{
         border: none;
     }
 
+    .hero{
+        height: 100%;
+        background-image: var(--background), url('../assets/hero.webp');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment:fixed;
+        background-position: center;
+        position: relative;
+    }
+
     .hero__texts{
         width: 100%;
         margin-bottom: 80px;
@@ -463,6 +486,13 @@ body{
     }
     .hero__subtitle{
         font-size: 1.5rem;
+    }
+
+    .hero__video{
+        display: none;
+    }
+    main{
+        background: none;
     }
 
     .subtitle{
@@ -595,6 +625,10 @@ body{
     .hero__wave{
         color: #181a1b;
         fill: #181a1b;
+    }
+
+    main{
+        background: #181a1b;
     }
     .footer{
         background: #0b0d0e;
