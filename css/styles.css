@@ -156,6 +156,8 @@ main{
 
 .juego__anchor{
     text-decoration: none;
+    color: black;
+
 }
 
 .juego__anchor:visited{
@@ -245,7 +247,7 @@ main{
     }
     .juego__img1{
         background-image: url('/assets/juego1wide.webp');
-        background-position: left;
+        background-position: center;
     }
 }
 
