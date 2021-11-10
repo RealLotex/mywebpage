@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bungee&family=Press+Start+2P&family=Quicksand:wght@500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bungee&family=Press+Start+2P&family=Quicksand:wght@500;700&display=swap&family=IBM+Plex+Sans:wght@500;700&display=swap');
 
 :root{
     background-color:rgb(235, 235, 235);
@@ -36,6 +36,13 @@ main{
     line-height: 1;
 }
 
+.subheader{
+    font-family: 'Bungee', cursive;
+    color: black;
+    line-height: 1;
+    font-size: 1.5rem;
+}
+
 .header__buttons{
     line-height: 0;
 }
@@ -60,8 +67,11 @@ main{
     margin: 5px 0px;
 }
 
-.presentation__title{
-    padding-bottom: 10px;
+.presentation__spacer{
+    line-height: 0;
+    padding-bottom: 4px;
+    background-color: rgb(68, 68, 68);
+    margin: 5px 0px;
 }
 
 .presentation__content{
@@ -72,6 +82,14 @@ main{
     margin-bottom: 50px;
 }
 
+.presentation__title{
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 1;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 700;
+}
+
 .presentation__text{
     text-align: center;
     font-size: 1.5rem;
@@ -79,8 +97,28 @@ main{
     font-weight: 500;
 }
 
+.skill{
+    font-size: 1rem;
+    margin: 10px 0px;
+    display: inline-block;
+
+}
+
+.iconify{
+    font-size: 2.9rem;
+    max-width: 46px;
+    margin: 0px 15px;
+}
+
+.presentation__text__social{
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 1;
+    font-weight: 500;
+}
+
 .presentation__icons{
-    padding: 15px 25%;
+    padding: 5px 25%;
     display: flex;
     justify-content: space-evenly;
 }
@@ -92,13 +130,15 @@ main{
 }
 
 .presentation__picture{
+    
     width: 100%;
-    max-width: 400px;
+    max-width: 200px;
+    border-radius: 10px;
 }
 
 .juegos__content{
     background-color: rgb(220, 220, 220);
-    padding: 20px 10px;
+    padding: 10px 10px;
     min-height: 600px;
     margin-bottom: 50px;
 }
@@ -111,16 +151,31 @@ main{
     grid-template-columns: 150px 1fr;
     align-items: left;
     margin-bottom: 10px;
+
+}
+
+.juego__anchor{
+    text-decoration: none;
+}
+
+.juego__anchor:visited{
+    color: black;
 }
 
 .juego__img1{
-    background-image: url('/assets/juego1.webp');
-    background-position: bottom;
+    background-image: url('/assets/juego1sq.webp');
+    background-position: center;
     background-size: cover;
 }
 
 .juego__img2{
     background-image: url('/assets/juego2.webp');
+    background-position: bottom;
+    background-size: cover;
+}
+
+.juego__img3{
+    background-image: url('/assets/juego3.webp');
     background-position: center;
     background-size: cover;
 }
@@ -149,11 +204,21 @@ main{
     padding-right: 10px;
 }
 
+.juego__descripcion-header-tag-launched{
+    text-align: center;
+    padding: 10px 10px;
+    display: inline-block;
+    color: lightyellow;
+    background-color: #007E33;
+    border-radius: 4px;
+    cursor:pointer;
+}
+
 .juego__descripcion-header-tag-developing{
     text-align: center;
     padding: 10px 10px;
     display: inline-block;
-    background-color:rgb(217, 238, 96);
+    background-color: #cddc39;
     border-radius: 4px;
     cursor:default;
 }
@@ -161,7 +226,7 @@ main{
     text-align: center;
     padding: 10px 10px;
     display: inline-block;
-    background-color:rgb(236, 174, 111);
+    background-color: #fdd835;
     border-radius: 4px;
     cursor:default;
 }
@@ -177,6 +242,10 @@ main{
     .juego{
         grid-template-columns:1fr;
         grid-template-rows: 1fr 1fr;
+    }
+    .juego__img1{
+        background-image: url('/assets/juego1wide.webp');
+        background-position: left;
     }
 }
 
