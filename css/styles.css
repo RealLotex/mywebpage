@@ -108,6 +108,11 @@ main{
     font-size: 2.9rem;
     max-width: 46px;
     margin: 0px 15px;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    pointer-events: none;
 }
 
 .presentation__text__social{
