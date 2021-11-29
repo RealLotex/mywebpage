@@ -98,21 +98,24 @@ main{
 }
 
 .skill{
-    font-size: 1rem;
+    font-size: .9rem;
     margin: 10px 0px;
-    display: inline-block;
+    display:inline-block;
+    vertical-align: middle;
 
 }
 
 .iconify{
     font-size: 2.9rem;
-    max-width: 46px;
-    margin: 0px 15px;
+    width: 46px;
+    height: 46px;
+    margin: 0px 10px;
     user-select: none;
     -moz-user-select: none;
     -webkit-user-select: none;
     -ms-user-select: none;
     pointer-events: none;
+    object-fit:contain;
 }
 
 .presentation__text__social{
