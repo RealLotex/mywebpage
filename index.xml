@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Developer | Educator | Economic Analyst on Rosich Marcos</title>
+    <link>https://rosichmarcos.com.ar/</link>
+    <description>Recent content in Game Developer | Educator | Economic Analyst on Rosich Marcos</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jun 2025 17:08:30 -0300</lastBuildDate>
+    <atom:link href="https://rosichmarcos.com.ar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Will Stop Making Youtube Tutorials on Gamedev</title>
+      <link>https://rosichmarcos.com.ar/journal/i-will-stop-making-youtube-tutorials-on-gamedev/</link>
+      <pubDate>Mon, 16 Jun 2025 17:08:30 -0300</pubDate>
+      <guid>https://rosichmarcos.com.ar/journal/i-will-stop-making-youtube-tutorials-on-gamedev/</guid>
+      <description>&lt;p&gt;After a year of diving deep into the world of content creation, specifically making Unreal Engine tutorials and even repurposing them as Shorts and TikToks for wider reach, I&amp;rsquo;ve decided it&amp;rsquo;s time to step back.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rosichmarcos.com.ar/images/journal/youtubechannel.gif&#34; alt=&#34;Youtube Channel&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I Have Published My First Project on Google Play Store</title>
+      <link>https://rosichmarcos.com.ar/journal/i-have-published-my-first-project-on-google-play-store/</link>
+      <pubDate>Fri, 13 Jun 2025 14:45:07 -0300</pubDate>
+      <guid>https://rosichmarcos.com.ar/journal/i-have-published-my-first-project-on-google-play-store/</guid>
+      <description>&lt;p&gt;This year, I set out to launch a project on the Google Play Store.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rosichmarcos.com.ar/images/journal/zenzonepublished.gif&#34; alt=&#34;Zen Zone Published on Google Play Store&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I Started a New Project to Learn Marketing</title>
+      <link>https://rosichmarcos.com.ar/journal/i-started-a-new-project-to-learn-marketing/</link>
+      <pubDate>Sat, 29 Mar 2025 14:43:59 -0300</pubDate>
+      <guid>https://rosichmarcos.com.ar/journal/i-started-a-new-project-to-learn-marketing/</guid>
+      <description>&lt;p&gt;A couple weeks ago I began active development on Jumpybara! and decided to pause work on Zen Zone.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rosichmarcos.com.ar/images/journal/jumpybara.png&#34; alt=&#34;Jumpybara! Title Screen&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Survival Instincts in Zen Zone</title>
+      <link>https://rosichmarcos.com.ar/journal/survival-instincts-in-zen-zone/</link>
+      <pubDate>Thu, 13 Mar 2025 19:34:09 -0300</pubDate>
+      <guid>https://rosichmarcos.com.ar/journal/survival-instincts-in-zen-zone/</guid>
+      <description>&lt;p&gt;Last week, I came accross this definition by Gavin Eisenbeisz, the guy that made Choo-Choo Charles:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Entertainment is a zero risk shortcut that leads to gratification of one or more survival instincts. [&amp;hellip;]. At a fundamental level, entertainment is anything that makes a shortcut based on minimal input from your body (minimal energy expenditure) that gets you as quickly as possible towards instinctual gratification&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=oOcTqYGQKBw&#34;&gt;Source:&#xA;Scientia Ludos &amp;ldquo;What ACTUALLY is entertainment?&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why I Use Construct 3</title>
+      <link>https://rosichmarcos.com.ar/journal/why-i-use-construct-3/</link>
+      <pubDate>Fri, 07 Mar 2025 13:37:04 -0300</pubDate>
+      <guid>https://rosichmarcos.com.ar/journal/why-i-use-construct-3/</guid>
+      <description>&lt;p&gt;A fully open-ended toolbox is inconvenient for any creative process. But limitations will guide you to creative workaround that sharpen your workflow.&lt;/p&gt;&#xA;&lt;p&gt;With Zen Zone Online, I wanted to add some perspective so that the game characters wouldn&amp;rsquo;t look so flat. What I did was embrace the 2D nature of the engine and, for each instance of every character, I run a code that duplicates the sprite and put it below the original, with a darker tint.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rosichmarcos.com.ar/images/journal/3doverlay.gif&#34; alt=&#34;2.5 Effect Example&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I Have Started a GameDev Journal.</title>
+      <link>https://rosichmarcos.com.ar/journal/i-have-started-a-gamedev-journal/</link>
+      <pubDate>Thu, 06 Mar 2025 15:58:07 -0300</pubDate>
+      <guid>https://rosichmarcos.com.ar/journal/i-have-started-a-gamedev-journal/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve decided to start this journal to share updates on my projects, as I have been doing so on my social media.&lt;/p&gt;&#xA;&lt;p&gt;At this time, I am developing Zen Zone Online. This is a long term goal.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
