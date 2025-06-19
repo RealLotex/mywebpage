@@ -6,8 +6,15 @@
     <description>Recent content in Game Developer | Educator | Economic Analyst on Rosich Marcos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jun 2025 17:08:30 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 13:41:38 -0300</lastBuildDate>
     <atom:link href="https://rosichmarcos.com.ar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entropy in Computer Code According to the Pragmatic Programmer</title>
+      <link>https://rosichmarcos.com.ar/journal/entropy-in-computer-code-according-to-the-pragmatic-programmer/</link>
+      <pubDate>Thu, 19 Jun 2025 13:41:38 -0300</pubDate>
+      <guid>https://rosichmarcos.com.ar/journal/entropy-in-computer-code-according-to-the-pragmatic-programmer/</guid>
+      <description>&lt;p&gt;I just dove into the first chapter of &amp;ldquo;The Pragmatic Programmer.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;This first chapter is a potent wake-up call for any developer. It&amp;rsquo;s not just about specific languages or frameworks. It&amp;rsquo;s a mindset: a pragmatic approach to building robust, adaptable, and maintainable software.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://rosichmarcos.com.ar/images/journal/thepragmaticprogrammer.webp&#34; alt=&#34;Me holding &amp;ldquo;The Pragmatic Programmer&amp;rdquo; book.&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>I Will Stop Making Youtube Tutorials on Gamedev</title>
       <link>https://rosichmarcos.com.ar/journal/i-will-stop-making-youtube-tutorials-on-gamedev/</link>
