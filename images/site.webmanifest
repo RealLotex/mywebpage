@@ -1,7 +1,7 @@
 {
-    "name": "Rosich Marcos' Website",
-    "short_name": "RM",
-    "description": "Explore the projects and devjournal of Rosich Marcos.",
+    "name": "Rosich Marcos's Journal",
+    "short_name": "Rosich Marcos's Journal",
+    "description": "Rosich Marcos's Journal on Game Development, The Internet and Computer Things.",
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
